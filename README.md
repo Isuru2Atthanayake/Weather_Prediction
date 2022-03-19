@@ -1,5 +1,5 @@
 # Weather_Prediction
-This project is developed using Python , and it's programmed to predict the weather forecast using Free weather API when the location is Entered.
+This project is developed using Python , and it's programmed to predict the weather forecast according to the location.</br>
 This program predicts</br> 
 ---
 1.Current temperature</br>
