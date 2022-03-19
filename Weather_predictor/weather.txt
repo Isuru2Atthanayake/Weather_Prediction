@@ -1,0 +1,21 @@
+------- 
+Weather Stats for - KANDY  || 23 Jan 2022 | 08:08:21 PM
+------- 
+Current temperature is: 22.13 deg C 
+Current weather desc  :broken clouds
+Current Humidity      :89% 
+Current wind speed    :1.59kmph 
+------- 
+Weather Stats for - KANDY  || 02 Feb 2022 | 02:51:21 PM
+------- 
+Current temperature is: 28.40 deg C 
+Current weather desc  :heavy intensity rain
+Current Humidity      :54% 
+Current wind speed    :3.29kmph 
+------- 
+Weather Stats for - KANDY  || 03 Feb 2022 | 02:52:02 PM
+------- 
+Current temperature is: 28.40 deg C 
+Current weather desc  :heavy intensity rain
+Current Humidity      :54% 
+Current wind speed    :3.29kmph 
